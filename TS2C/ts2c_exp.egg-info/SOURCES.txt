@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+ts2c_exp.egg-info/PKG-INFO
+ts2c_exp.egg-info/SOURCES.txt
+ts2c_exp.egg-info/dependency_links.txt
+ts2c_exp.egg-info/requires.txt
+ts2c_exp.egg-info/top_level.txt
